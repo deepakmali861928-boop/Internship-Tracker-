@@ -1,0 +1,46 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "description": "Classic pizza with fresh mozzarella, tomatoes, and basil.",
+      "price": 8.99,
+      "image": "images/margherita_pizza.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Carbonara",
+      "description": "Traditional Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+      "price": 12.50,
+      "image": "images/spaghetti_carbonara.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "description": "Crisp romaine lettuce with Caesar dressing, croutons, and parmesan cheese.",
+      "price": 7.50,
+      "image": "images/caesar_salad.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tiramisu",
+      "description": "Classic Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese.",
+      "price": 5.99,
+      "image": "images/tiramisu.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Grilled Chicken Sandwich",
+      "description": "Juicy grilled chicken breast with lettuce, tomato, and mayo on a toasted bun.",
+      "price": 9.99,
+      "image": "images/grilled_chicken_sandwich.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Vegetable Stir Fry",
+      "description": "A mix of seasonal vegetables stir-fried in a savory sauce.",
+      "price": 10.99,
+      "image": "images/vegetable_stir_fry.jpg"
+    }
+  ]
+}
